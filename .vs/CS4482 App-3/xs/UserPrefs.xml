@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{733AF6C4-7DB6-30F7-C226-8784CA7E21BC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BucketController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Parallaxer.cs" Line="154" Column="64" />
+      <File FileName="Assets/Scripts/BucketController.cs" Line="146" Column="45" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="154" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
